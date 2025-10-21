@@ -1,4 +1,7 @@
-# Ragni Sottozero
+# Ragni sottozero
+<p align="center">
+  <img src="/assets/images/Ragni_sottozero_logo.png" alt="Logo" width="200"/>
+</p>
 
 ## Media
 <a href="https://instagram.com/tuo_username" target="_blank" style="display:inline-block;padding:10px 20px;background:#E1306C;color:#fff;border-radius:5px;text-decoration:none;">
