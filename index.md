@@ -1,8 +1,5 @@
-| (Progetto) | (Partecipa) | (Media) | (Contatti) |
-|-----------|-----------|-----------|-----------|
-
 <p align="center">
-  <img src="assets/images/Ragni_sottozero_logo.png" alt="Logo" width="300"/>
+  <img src="images/Ragni_sottozero_logo.png" alt="Logo" width="300"/>
 </p>
 
 ## Progetto
