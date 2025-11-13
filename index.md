@@ -26,7 +26,7 @@ Il progetto vuole avvicinare gli studenti al metodo scientifico tramite la racco
 
 ## Cosa ti serve per partecipare?
 - Un'area verde all'interno della scuola o vicino, dove sia possibile fare campionamenti ripetuti;
-- Materiali e strumenti per i campionamenti che sono elencati nella "valigietta dell'aspirante aracnologo"
+- Materiali e strumenti per i campionamenti che sono elencati nella "valigetta dell'aspirante aracnologo"
 
 ## Materiali
 
